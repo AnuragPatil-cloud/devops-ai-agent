@@ -1,4 +1,4 @@
-# 🚀 DevOps AI Agent — AWS Infrastructure Auditor (Local Ubuntu + AWS CLI)
+# 🚀 DevOps AI Agent — AWS Infrastructure Auditor (using AWS CLI)
 
 An AI-powered DevOps agent that audits your AWS infrastructure using **AWS CLI + LangChain + Gemini (LLM)** and provides intelligent insights like a senior DevOps engineer.
 
